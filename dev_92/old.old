@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Benjamin Koren</title>
+    <link rel="stylesheet" href="includes/style.css">
+</head>
+<body>
+    <header>
+    </header>
+    <div class="wrapper">
+        <nav>
+            <a href="http://shenkar.html5-book.co.il/2018-2019/web1/dev_92/exercises/ex1/index.html">EX1</a>
+            <a href="#">EX2</a>
+            <a href="#">EX3</a>
+            <a href="#">EX4</a>
+            <a href="https://github.com/bjk510/sh_ex/tree/master">GitHub</a>
+        </nav>
+        <main>
+
+        </main>
+    </div>
+<footer>
+</footer>
+</body>
+</html>
